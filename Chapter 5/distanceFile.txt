@@ -1,0 +1,34 @@
+Enter a speed above Zero
+Enter the time in hours you are going 
+Hour		 Distance traveled
+**********************************
+1			 4
+ Stich	
+Lyle	
+Lumbar	
+ ayeeee it worked
+Freeman Wednesday?
+2			 8
+ Stich	
+Lyle	
+Lumbar	
+ ayeeee it worked
+Freeman Wednesday?
+3			 12
+ Stich	
+Lyle	
+Lumbar	
+ ayeeee it worked
+Freeman Wednesday?
+4			 16
+ Stich	
+Lyle	
+Lumbar	
+ ayeeee it worked
+Freeman Wednesday?
+5			 20
+ Stich	
+Lyle	
+Lumbar	
+ ayeeee it worked
+Freeman Wednesday?
